@@ -1,0 +1,383 @@
+product_id,product_code,product_name,category_id,description,cost,selling_price,stock_quantity,reorder_level,unit,is_active
+,1,Chicken Broast,1,Delicious chocolate cake,150,250,10,5,NULL,1
+,2,Leg Piece,1,Classic vanilla cake,120,350,15,5,piece,1
+,3,Shashlik Stick,1,500ml bottled water,10,500,100,20,NULL,1
+,4,Drum Stick,1,0,0,40,0,0,NULL,1
+,5,Chapal Kabab,1,0,0,0,0,0,NULL,1
+,6,Wings,1,0,0,0,0,0,NULL,1
+,7,Chicken Finger,1,0,0,0,0,0,NULL,1
+,8,Leg Roll,1,0,0,0,0,0,NULL,1
+,9,Chicken Pai,1,0,0,0,0,0,NULL,1
+,10,Deal Cheese Sandwich,1,0,0,0,0,0,NULL,1
+,11,Tikka Farai Sandwich,1,0,0,0,0,0,NULL,1
+,12,Single Farai Sandwich,1,0,0,0,0,0,NULL,1
+,13,Smoli Farai Burger,1,0,0,0,0,0,NULL,1
+,14,Single Sandwich,1,0,0,0,0,0,NULL,1
+,15,Tikka Sandwich Double,1,0,0,0,0,0,NULL,1
+,16,Cheese Sandwich,1,0,0,0,0,0,NULL,1
+,17,Club Sandwich,1,0,0,0,0,0,NULL,1
+,18,Chicken Pastry,1,0,0,0,0,0,NULL,1
+,19,Chicken Kundi,1,0,0,0,0,0,NULL,1
+,20,Pizza Chicken Roll,1,0,0,0,0,0,NULL,1
+,21,Pizza 1 Pound,1,0,0,0,0,0,NULL,1
+,22,Pizza Medium,1,0,0,0,0,0,NULL,1
+,23,Pizza Small,1,0,0,0,0,0,NULL,1
+,24,Pizza Takoon,1,0,0,0,0,0,NULL,1
+,25,Pizza Patti,1,0,0,0,0,0,NULL,1
+,26,Slice Pizza,1,0,0,0,0,0,NULL,1
+,27,Donut,1,0,0,0,0,0,NULL,1
+,28,Dinner Roll,1,0,0,0,0,0,NULL,1
+,29,Variety Pizza,1,0,0,0,0,0,NULL,1
+,30,Shami Kabab,1,0,0,0,0,0,NULL,1
+,31,Chicken Pokora,1,0,0,0,0,0,NULL,1
+,32,Salad,1,0,0,0,0,0,NULL,1
+,33,Namkeen Salad,1,0,0,0,0,0,NULL,1
+,34,Full Bread Pizza,1,0,0,0,0,0,NULL,1
+,35,Half Bread Pizza,1,0,0,0,0,0,NULL,1
+,36,Zinger Burger,1,0,0,0,0,0,NULL,1
+,37,Half Burger,1,0,0,0,0,0,NULL,1
+,38,Frozen Chicken Roll,1,0,0,0,0,0,NULL,1
+,39,Frozen Chicken Smosa,1,0,0,0,0,0,NULL,1
+,40,Frozen Sabzi Roll,1,0,0,0,0,0,NULL,1
+,41,Frozen Sabzi Smosa,1,0,0,0,0,0,NULL,1
+,42,Frozen Alu Roll,1,0,0,0,0,0,NULL,1
+,43,Frozen Alu Smosa,1,0,0,0,0,0,NULL,1
+,44,Frozen Shami Kabab Chicken,1,0,0,0,0,0,NULL,1
+,45,Chocolate Cake 1 Pound,2,0,0,0,0,0,NULL,1
+,46,Chocolate Cake 2 Pound,2,0,0,0,0,0,NULL,1
+,47,Variety Cake 1 Pound,2,0,0,0,0,0,NULL,1
+,48,Variety Cake 2 Pound,2,0,0,0,0,0,NULL,1
+,49,Cheese Cake 1 Pound,2,0,0,0,0,0,NULL,1
+,50,Cheese Cake 2 Pound,2,0,0,0,0,0,NULL,1
+,51,Dry Cake 1 Pound,2,0,0,0,0,0,NULL,1
+,52,Dry Cake 2 Pound,2,0,0,0,0,0,NULL,1
+,53,Almond Cake 1 Pound,2,0,0,0,0,0,NULL,1
+,54,Almond Cake 2 Pound,2,0,0,0,0,0,NULL,1
+,55,Fig Cake 1 Pound,2,0,0,0,0,0,NULL,1
+,56,Fig Cake 2 Pound,2,0,0,0,0,0,NULL,1
+,57,Fruit Cake Bara,2,0,0,0,0,0,NULL,1
+,58,Fruit Cake Chota,2,0,0,0,0,0,NULL,1
+,59,Saada Cake Bara,2,0,0,0,0,0,NULL,1
+,60,Saada Cake Chota,2,0,0,0,0,0,NULL,1
+,61,Fresh Careme Pastry,2,0,0,0,0,0,NULL,1
+,62,Black Faras Pastry,2,0,0,0,0,0,NULL,1
+,63,Chacolate Pastry,2,0,0,0,0,0,NULL,1
+,64,Mafan,2,0,0,0,0,0,NULL,1
+,65,Brownie Pastry,2,0,0,0,0,0,NULL,1
+,66,Chocolate Dry Pastry,2,0,0,0,0,0,NULL,1
+,67,Cheese Pastry,2,0,0,0,0,0,NULL,1
+,68,Almond Pastry,2,0,0,0,0,0,NULL,1
+,69,Namkeen Buscuit,2,0,0,0,0,0,NULL,1
+,70,Pista Buscuit,2,0,0,0,0,0,NULL,1
+,71,Chocolate Buscuit,2,0,0,0,0,0,NULL,1
+,72,Hatai Buscuit,2,0,0,0,0,0,NULL,1
+,73,Coconut Buscuit,2,0,0,0,0,0,NULL,1
+,74,Cake Rusk,2,0,0,1000,0,0,kg,1
+,75,Bakarkhani Bari,2,0,0,0,0,0,NULL,1
+,76,Bakarkhani Choti,2,0,0,0,0,0,NULL,1
+,77,Careem Roll,2,0,0,0,0,0,NULL,1
+,78,Careem Puff,2,0,0,0,0,0,NULL,1
+,79,Chicken Patties,2,0,0,0,0,0,NULL,1
+,506,Alu Patties,2,0,0,60,0,0,piece,1
+,502,Biscuit,2,0,0,900,0,0,kg,1
+,500,Dalda Cross,2,0,0,900,0,0,kg,1
+,80,Jaman Gol,3,0,0,0,0,0,NULL,1
+,81,Jaman Lambay,3,0,0,0,0,0,NULL,1
+,81,Jaman Katlas,3,0,0,0,0,0,NULL,1
+,81,Jaman Malai,3,0,0,0,0,0,NULL,1
+,81,Jaman Chotay,3,0,0,0,0,0,NULL,1
+,81,Rasgullay Safaid,3,0,0,0,0,0,NULL,1
+,81,Rasgullay Peelay,3,0,0,900,0,0,kg,1
+,81,Rasgullay Chapti,3,0,0,0,0,0,NULL,1
+,81,Falsa,3,0,0,900,0,0,kg,1
+,81,Barfi Saada,3,0,0,1400,0,0,kg,1
+,81,Barfi Badam,3,0,0,0,0,0,NULL,1
+,81,Barfi Akhroot,3,0,0,0,0,0,NULL,1
+,81,Barfi Special,3,0,0,0,0,0,NULL,1
+,81,Pista Roll,3,0,0,0,0,0,NULL,1
+,81,Kalakand,3,0,0,1400,0,0,kg,1
+,81,Gajar ka Halwa,3,0,0,800,0,0,kg,1
+,81,Habshi Halwa,3,0,0,1400,0,0,kg,1
+,81,Cheeri Halwa,3,0,0,0,0,0,NULL,1
+,81,Pista Barfi,3,0,0,1400,0,0,kg,1
+,81,Khajoor Halwa,3,0,0,1400,0,0,kg,1
+,81,Cheeri Barfi,3,0,0,1400,0,0,kg,1
+,81,Ras Malai,3,0,0,200,0,0,piece,1
+,10x,Kheer,3,0,0,200,0,0,piece,1
+,82,Malki Pateesa,3,0,0,800,0,0,kg,1
+,83,Balushahi,3,0,0,800,0,0,kg,1
+,84,Imarti,3,0,0,800,0,0,kg,1
+,85,Ladu Motichoor,3,0,0,800,0,0,kg,1
+,86,Sohan Halwa Tikki,3,0,0,30,0,0,piece,1
+,87,Pateesa Gol,3,0,0,800,0,0,kg,1
+,88,Maysore,3,0,0,0,0,0,NULL,1
+,306,Shakarparay,12,0,0,600,0,0,kg,1
+,305,Namakparay,12,0,0,600,0,0,kg,1
+,pep,Pepsi,1,0,0,4500,0,0,NULL,1
+,coc,coca-cola,4,0,0,120,0,0,piece,1
+,46876380023,gourment 1,4,0,0,150,0,0,piece,1
+,46876380006,Gourmet lemon up 1.5L,4,0,0,190,0,0,piece,1
+,400,Large Bread,8,0,0,180,0,0,piece,1
+,402,Small Bread,8,0,0,100,0,0,piece,1
+,404,Milky Large,8,0,0,190,0,0,piece,1
+,406,Milky Small,8,0,0,110,0,0,piece,1
+,408,Brown Bread,8,0,0,100,0,0,piece,1
+,410,Bun,8,0,0,40,0,0,piece,1
+,412,Burger Bun,8,0,0,150,0,0,pack,1
+,414,Fruit Sheermal,8,0,0,100,0,0,piece,1
+,416,Plain Sheermal,8,0,0,70,0,0,piece,1
+,418,Slice Rusk 500 gm,8,0,0,260,0,0,piece,1
+,420,Slice Rusk 250 gm,8,0,0,130,0,0,piece,1
+,422,Gol Rusk 500 gm,8,0,0,260,0,0,piece,1
+,424,Gol Rusk 250 gm,8,0,0,130,0,0,piece,1
+,426,Burger Rusk,8,0,0,260,0,0,piece,1
+,428,Brown Rusk,8,0,0,130,0,0,piece,1
+,430,Baby Rusk,8,0,0,150,0,0,piece,1
+,432,Almond Rusk,8,0,0,150,0,0,pack,1
+,6.71866E+11,SLANTY,7,0,0,50,0,0,piece,1
+,6.71866E+11,salanty,7,0,0,50,0,0,piece,1
+,6.71866E+11,Potato Sticks,7,0,0,20,0,0,piece,1
+,8.964E+12,Maxo Salanty,7,0,0,10,0,0,piece,1
+,6.71866E+11,Salanty vegetable,7,0,0,30,0,0,piece,1
+,8.9611E+12,catty chins,7,0,0,30,0,0,piece,1
+,8.964E+12,SUPER CRISP MASALA,7,0,0,100,0,0,piece,1
+,8.964E+12,SUPER CRISP CHEES,7,0,0,100,0,0,piece,1
+,8.964E+12,SUPER CRISP B.B.Q,7,0,0,100,0,0,piece,1
+,8.964E+12,SUPER CRISP B.B.Q 60,7,0,0,60,0,0,piece,1
+,8.964E+12,SUPER CRISP MASALA 60,7,0,0,60,0,0,piece,1
+,8.964E+12,SUPER CRISP SALTED 62,7,0,0,60,0,0,piece,1
+,8.964E+12,SUPER CRISP S/CHILLI 60,7,0,0,60,0,0,piece,1
+,8.964E+12,SUPER CRISP B.B.Q 50,7,0,0,50,0,0,piece,1
+,8.964E+12,S/CRISP SALTED 50,7,0,0,50,0,0,piece,1
+,8.964E+12,S/CRISP CHEES 50,7,0,0,50,0,0,piece,1
+,8.964E+12,S/CRISP MASALA 50,7,0,0,50,0,0,piece,1
+,8.964E+12,S/CRISP CHEES 40,7,0,0,40,0,0,piece,1
+,8.9611E+12,SUPER CRISP S 40,7,0,0,40,0,0,piece,1
+,8.964E+12,CATTY CHINS 40,7,0,0,40,0,0,piece,1
+,8.964E+12,SUPER CRISP S 30,7,0,0,30,0,0,piece,1
+,8.964E+12,SUPER CRISP C 30,7,0,0,30,0,0,piece,1
+,8.964E+12,SUPER CRISP M 30,7,0,0,30,0,0,piece,1
+,8.964E+12,CATTY CHIS 20,7,0,0,20,0,0,piece,1
+,8.964E+12,SUPER CRISP S/C 20,7,0,0,20,0,0,piece,1
+,8.9611E+12,SUPER CRISP B.B.Q 20,7,0,0,20,0,0,piece,1
+,8.964E+12,SUPER CRISP M 20,7,0,0,20,0,0,piece,1
+,8.964E+12,POTATO S 60,7,0,0,60,0,0,piece,1
+,045160,Nimko s,9,0,0,50,0,0,piece,1
+,0901120,Nimko L,9,0,0,100,0,0,piece,1
+,01801240,Nimko,9,0,0,200,0,0,piece,1
+,6.20514E+11,National Chicken Tikka 40 gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Malaio Boti 50gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Tandoori 40gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Tikka Boti 44gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Murghi 43gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Khas Nihari 56gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Shami Kabab 450gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Chapli Kabab 72gn,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Broast 97gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Achar Gosht 43gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Meat Tenderizer 40gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Paya 39g,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Chicken W/Karahi 40gm,10,0,0,140,0,0,piece,1
+,01201150,Sweets  Sounf,9,0,0,150,0,0,piece,1
+,6.20514E+11,National Ginger P 50gm,10,0,0,110,0,0,piece,1
+,6.20514E+11,National Karahi 47gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,NAtional Galic Powder 50gm,10,0,0,170,0,0,piece,1
+,6.20514E+11,National Quorma 50gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Chaat Masala 45gm,10,0,0,120,0,0,piece,1
+,6.20514E+11,National Black Pepper 25gm,10,0,0,150,0,0,piece,1
+,6.20514E+11,National Haleem 43gm,10,0,0,120,0,0,piece,1
+,6.20514E+11,National Sabzi 23gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Biryani 39gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Bombay Biryani 70gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Pulao,10,0,0,140,0,0,piece,1
+,6.69859E+12,Zouq Sher Khurma 155gm,10,0,0,180,0,0,piece,1
+,8.964E+12,Click H/R,5,0,0,40,0,0,piece,1
+,6.20514E+11,National V Custard 120gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National S Custard 120gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Custard(B) 120gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Custard (M) 120gm,10,0,0,140,0,0,piece,1
+,6.20514E+11,National Kheer 155gm,10,0,0,190,0,0,piece,1
+,6.20514E+11,National Jelly (S) 80gm,10,0,0,190,0,0,piece,1
+,6.20514E+11,National Jelly (M) 80gm,10,0,0,190,0,0,piece,1
+,6.20514E+11,National Jelly (M.F),10,0,0,190,0,0,piece,1
+,6.20514E+11,National Jelly (B),10,0,0,190,0,0,piece,1
+,1.00179E+12,Macaroni Elbow 400gm,10,0,0,180,0,0,piece,1
+,GR-1,Macaroni Achari 250gm,10,0,0,160,0,0,piece,1
+,GR-10,Macaroni Chicken (K) 250gm,10,0,0,160,0,0,piece,1
+,GR-9,Macaroni B.B.Q 250gm,10,0,0,160,0,0,piece,1
+,GR-4,Macaroni Tikka 250gm,10,0,0,160,0,0,piece,1
+,1.00179E+12,Spaghetti(G) 450gm,10,0,0,180,0,0,piece,1
+,5.02822E+12,Laziza Kheer Mix 155gm,10,0,0,150,0,0,piece,1
+,6.20514E+11,National Custard (S) 275gm,10,0,0,220,0,0,piece,1
+,6.20514E+11,National Custard(M) 275gm,10,0,0,220,0,0,piece,1
+,6.20514E+11,National Cornflour 250gm,10,0,0,220,0,0,piece,1
+,2.02266E+12,Talbeena,10,0,0,300,0,0,piece,1
+,8.96201E+12,Kisan Porridge 125gm,10,0,0,90,0,0,piece,1
+,8.15096E+11,Green Tea(M) 30 B,10,0,0,250,0,0,piece,1
+,8.15096E+11,Green Tea(MOR) 30B,10,0,0,250,0,0,piece,1
+,8.15096E+11,Green Tea (S) 30 B,10,0,0,250,0,0,piece,1
+,8.15096E+11,Green Tea(L) 30 B,10,0,0,250,0,0,piece,1
+,5.06331E+12,Yellow Label(L) 50 B,10,0,0,600,0,0,piece,1
+,8.964E+12,Sheild Evenflo Nipple(R),10,0,0,100,0,0,piece,1
+,8.96101E+12,Glaxose-D (L),10,0,0,280,0,0,piece,1
+,8.96101E+12,Glaxose-D(S),10,0,0,90,0,0,piece,1
+,1.5g,Tiger Elfy,10,0,0,30,0,0,piece,1
+,8.964E+12,Gelatine Powder,10,0,0,260,0,0,piece,1
+,8.964E+12,Mellow Baking soda 100gm,10,0,0,100,0,0,piece,1
+,8.964E+12,Chicken Flavor Powder50 gm,10,0,0,140,0,0,piece,1
+,8.964E+12,Meat Tenderizer 50gm,10,0,0,140,0,0,piece,1
+,8.964E+12,Zarda,10,0,0,150,0,0,piece,1
+,8.964E+12,Green-Yellow-Zarda,10,0,0,150,0,0,piece,1
+,8.964E+12,Baking Powder 50gm,10,0,0,100,0,0,piece,1
+,8.964E+12,Paprika Powder 25gm,10,0,0,110,0,0,piece,1
+,8.964E+12,Cocoa Powder 40gm,10,0,0,160,0,0,piece,1
+,8.964E+12,Instant Yeast 3*11g,10,0,0,150,0,0,piece,1
+,8.964E+12,Olper 1.5ltr,10,0,0,520,0,0,piece,1
+,8.964E+12,Olper 1ltr,10,0,0,360,0,0,piece,1
+,19640008,Olper250 ml,10,0,0,100,0,0,piece,1
+,8.964E+12,Tranag 170ml,10,0,0,50,0,0,piece,1
+,8.964E+12,Dairy Omung 225 ml,10,0,0,70,0,0,piece,1
+,6.26069E+12,Chibo Uht Cream,10,0,0,150,0,0,piece,1
+,8.964E+12,Marie H/R,5,0,0,40,0,0,piece,1
+,8.964E+12,Party Pik H/R,5,0,0,40,0,0,piece,1
+,8.964E+12,Sooper Cho H/R,5,0,0,40,0,0,piece,1
+,8.964E+12,Peanut Pik H/R,5,0,0,40,0,0,piece,1
+,8.964E+12,Sooper H/R,5,0,0,40,0,0,piece,1
+,8.964E+12,Gloco H/R 30,5,0,0,30,0,0,piece,1
+,8.964E+12,Lemon S/W H/R,5,0,0,40,0,0,piece,1
+,8.964E+12,Rio Choc H/R,5,0,0,40,0,0,piece,1
+,8.964E+12,Rio Straw H/R,5,0,0,40,0,0,piece,1
+,8.964E+12,Choco S/W H/R,5,0,0,40,0,0,piece,1
+,8.964E+12,Choco Lava H/R,5,0,0,40,0,0,piece,1
+,8.70572E+11,Chocolatto 10,5,0,0,10,0,0,piece,1
+,8.9611E+12,Chocolatto 30,5,0,0,30,0,0,piece,1
+,8.9611E+12,Rite 30,5,0,0,30,0,0,piece,1
+,8.9611E+12,Rite 10,5,0,0,10,0,0,piece,1
+,8.9611E+12,Choco Chip 10,5,0,0,10,0,0,piece,1
+,8.964E+12,Choco Licious 30,5,0,0,30,0,0,piece,1
+,8.964E+12,A 1 H/R,5,0,0,40,0,0,piece,1
+,8.964E+12,Butter Puff H/F,5,0,0,40,0,0,piece,1
+,8.964E+12,Special 30,5,0,0,30,0,0,piece,1
+,8.964E+12,Gluco Teddy Milk,5,0,0,40,0,0,piece,1
+,8.964E+12,Smile Choco Donut,5,0,0,50,0,0,piece,1
+,8.964E+12,Smile Straw Donut,5,0,0,50,0,0,piece,1
+,6.20514E+11,Jam Mango 200gm,10,0,0,230,0,0,piece,1
+,6.20514E+11,Jam Straw 420gm,10,0,0,370,0,0,piece,1
+,8.96101E+12,Rose Petal (POP UP),10,0,0,250,0,0,piece,1
+,8.96101E+12,Rose Petal (MAXOB),10,0,0,130,0,0,piece,1
+,5.84126E+12,Soft&Clean (WASAL),10,0,0,380,0,0,piece,1
+,5.84126E+12,Soft&Clean (PERFUME BOX),10,0,0,320,0,0,piece,1
+,6.20514E+11,Jam Apple (S),10,0,0,230,0,0,piece,1
+,6.20514E+11,Jam Mix Fruit (S),10,0,0,230,0,0,piece,1
+,6.20514E+11,Jam Apple (L),10,0,0,350,0,0,piece,1
+,6.20514E+11,Jam Mix Fruit (L),10,0,0,350,0,0,piece,1
+,8.96101E+12,Golden Apple Jam (L),10,0,0,350,0,0,piece,1
+,6.20514E+11,Quick Cook Haleem,10,0,0,350,0,0,piece,1
+,8.964E+12,Islamabad Tea 500gm,10,0,0,900,0,0,piece,1
+,8.964E+12,Isamabad Tea 250gm,10,0,0,530,0,0,piece,1
+,8.964E+12,Islamabad Tea 85gm,10,0,0,190,0,0,piece,1
+,300,Alu Samosa,12,0,0,40,0,0,piece,1
+,301,Sabzi Samosa,12,0,0,20,0,0,piece,1
+,302,Sabzi Roll,12,0,0,20,0,0,piece,1
+,303,Chicken Samosa,12,0,0,40,0,0,piece,1
+,304,Chicken Roll,12,0,0,40,0,0,piece,1
+,307,Sweets Bundi,12,0,0,600,0,0,kg,1
+,308,Jalebi,12,0,0,600,0,0,kg,1
+,7.88821E+11,Shoop Chattpata,10,0,0,50,0,0,piece,1
+,7.88821E+11,Shoop Chicken,10,0,0,50,0,0,piece,1
+,7.70202E+12,Gillette Blue3,13,0,0,290,0,0,piece,1
+,3.01426E+12,Gillette Blue2+,13,0,0,160,0,0,piece,1
+,7.38988E+12,Trim llXL,13,0,0,70,0,0,piece,1
+,11238300,Due Cream,13,0,0,350,0,0,piece,1
+,2.88036E+12,Jhalak Cream,13,0,0,360,0,0,piece,1
+,7.45179E+12,Arena Gold Cream,13,0,0,350,0,0,piece,1
+,8.964E+12,Golden Pearl Cream,13,0,0,360,0,0,piece,1
+,1.51973E+11,Sandal Cream,13,0,0,360,0,0,piece,1
+,5.84211E+12,Faiza Cream,13,0,0,375,0,0,piece,1
+,8.964E+12,Skin White Cream (S),13,0,0,100,0,0,piece,1
+,8.964E+12,Skin White Cream (L),13,0,0,250,0,0,piece,1
+,9.25459E+12,New Al Shifa Cream,13,0,0,475,0,0,piece,1
+,9.72796E+12,Bea Cream,13,0,0,380,0,0,piece,1
+,8.964E+12,Ujooba Cream,13,0,0,350,0,0,piece,1
+,9.95321E+12,Era Cream,13,0,0,250,0,0,piece,1
+,6.7186E+11,Ariya Cream,13,0,0,350,0,0,piece,1
+,3.32973E+11,Pure White Cream,13,0,0,340,0,0,piece,1
+,7.48252E+11,Air Freshner (Delight),13,0,0,250,0,0,piece,1
+,6.76979E+11,Air Freshner (house care),13,0,0,280,0,0,piece,1
+,6.76979E+11,Air Freshner (Red Rose),13,0,0,280,0,0,piece,1
+,6.76979E+11,Air Freshner(Aseel),13,0,0,280,0,0,piece,1
+,6.76979E+11,Air Freshner(Gold),13,0,0,280,0,0,piece,1
+,6.76979E+11,Air Freshner(Bruty),13,0,0,280,0,0,piece,1
+,6.00969E+12,Bio Amla shampo 470ml,13,0,0,470,0,0,piece,1
+,6.00969E+12,Bio Amla Shampo 200ml,13,0,0,340,0,0,piece,1
+,6.00969E+12,Bio Amla Shampo130ml,13,0,0,180,0,0,piece,1
+,6.00969E+12,Bio Amla Shampo 100ml,13,0,0,150,0,0,piece,1
+,8.964E+12,Doctor Shampo 100ml,13,0,0,190,0,0,piece,1
+,8.964E+12,Doctor Toothpaste 65gm,13,0,0,190,0,0,piece,1
+,8.964E+12,Doctor Toothpaste 35gm,13,0,0,90,0,0,piece,1
+,6.2911E+12,Medicam Toothpaste 25mg,13,0,0,40,0,0,piece,1
+,6.2911E+12,Medicam 35gm,13,0,0,100,0,0,piece,1
+,6.2911E+12,Medicam Red Gel,13,0,0,250,0,0,piece,1
+,6.2911E+12,Medicam Blue Gel,13,0,0,250,0,0,piece,1
+,6.2911E+12,Medicam Green Gel,13,0,0,250,0,0,piece,1
+,7.21688E+11,Cobor Toothbrush,13,0,0,100,0,0,piece,1
+,6.97372E+12,Deep Clean Toothbrush,13,0,0,150,0,0,piece,1
+,8.88695E+12,Colgate (Soft) Toothbrush,13,0,0,100,0,0,piece,1
+,9.55603E+12,Cologate Toothbrush(U Soft),13,0,0,200,0,0,piece,1
+,4.80889E+12,Colgate Babybrush,13,0,0,200,0,0,piece,1
+,8.88695E+12,Colgate Removes Stains,13,0,0,90,0,0,piece,1
+,8.88695E+12,Colgate Classic Plus,13,0,0,70,0,0,piece,1
+,6.00969E+12,Praima Color (BROWN),13,0,0,80,0,0,piece,1
+,6.00969E+12,Praima Color (BLACK),13,0,0,80,0,0,piece,1
+,8.58167E+11,Olivia Hair Color(BLACK),13,0,0,300,0,0,piece,1
+,8.58167E+11,Olivia Hair Color(M.Brown),13,0,0,300,0,0,piece,1
+,8.58167E+11,Olivia Color(L.Brown),13,0,0,300,0,0,piece,1
+,8.58167E+11,Olivia Color(D.Brown),13,0,0,300,0,0,piece,1
+,8.58167E+11,Olivia Color (Mocca),13,0,0,300,0,0,piece,1
+,8.58167E+11,Olivia Color(Burundy),13,0,0,300,0,0,piece,1
+,8.58167E+11,Olivia Color,13,0,0,300,0,0,piece,1
+,8.58167E+11,Olivia Color (Copper),13,0,0,300,0,0,piece,1
+,8.58167E+11,Olivia Color (Golden),13,0,0,300,0,0,piece,1
+,6.29512E+12,Veet (wax strips),13,0,0,750,0,0,piece,1
+,1.25187E+11,Ever Clean (spray),13,0,0,240,0,0,piece,1
+,8.9611E+12,Veet (f.wax strips),13,0,0,450,0,0,piece,1
+,6.29111E+12,Dunhil Desire(Perfume),13,0,0,300,0,0,piece,1
+,6.76979E+11,1 To 1(body Spray),13,0,0,300,0,0,piece,1
+,6.44216E+11,Sabiha (body spray),13,0,0,400,0,0,piece,1
+,8.9611E+12,Medora Bouquet(L),13,0,0,600,0,0,piece,1
+,8.964E+12,Sheild Baby Jelly,13,0,0,450,0,0,piece,1
+,25461972,Roghne Chambeli(jamil),13,0,0,250,0,0,piece,1
+,15269903,Tarameera (jamil),13,0,0,250,0,0,piece,1
+,ra,Roghne Amla(jamil),13,0,0,200,0,0,piece,1
+,JH65645646,Sarsoon oil(jamil),13,0,0,200,0,0,piece,1
+,rn,Roghne Nariyal(jamil),13,0,0,250,0,0,piece,1
+,7.36211E+11,Black Cobra Spray,13,0,0,380,0,0,piece,1
+,8.90103E+12,Vaseline Hair Tonic,13,0,0,350,0,0,piece,1
+,8.90103E+12,Vaseline Hair Tonic(S),13,0,0,250,0,0,piece,1
+,5.0225E+12,Olive Oil (Vatika),13,0,0,350,0,0,piece,1
+,6.29107E+12,Garlic Oil (Vatika),13,0,0,310,0,0,piece,1
+,9.28249E+12,Vaseline (Petroleum),13,0,0,60,0,0,piece,1
+,6.164E+12,Mospel 45ML,13,0,0,300,0,0,piece,1
+,8.964E+12,Silkee 40gm,13,0,0,160,0,0,piece,1
+,8.964E+12,Silkee 80gm,13,0,0,230,0,0,piece,1
+,8.964E+12,Silkee 120gm,13,0,0,300,0,0,piece,1
+,8.964E+12,Golden Pearl F/W (L..G),13,0,0,280,0,0,piece,1
+,8.964E+12,Golden Pearl f/w o/c,13,0,0,280,0,0,piece,1
+,8.964E+12,Golden Pearl men F/W,13,0,0,280,0,0,piece,1
+,8.964E+12,Golden Pearl F/W (VITAMIN),13,0,0,280,0,0,piece,1
+,8.964E+12,Golen Pearl T/T f/w,13,0,0,280,0,0,piece,1
+,8.964E+12,Golden Pearl Herbal F/W,13,0,0,280,0,0,piece,1
+,5.06045E+12,Sunblock Rivaj,13,0,0,320,0,0,piece,1
+,7.96554E+11,Skin white F/W,13,0,0,300,0,0,piece,1
+,7.96554E+11,Skin white C F/W,13,0,0,300,0,0,piece,1
+,8.9611E+12,Medora per talc,13,0,0,220,0,0,piece,1
+,8.964E+12,Black Cat Talc,13,0,0,250,0,0,piece,1
+,8.9611E+12,Tibet Talc,13,0,0,190,0,0,piece,1
+,6.29107E+12,Olive Oil (vatika)3,13,0,0,310,0,0,piece,1
+,6.29107E+12,Almond Oil (vatika),13,0,0,310,0,0,piece,1
+,6.29107E+12,Coconut Oil (Vatika),13,0,0,310,0,0,piece,1
+,8.964E+12,Onion Oil(vatika),13,0,0,310,0,0,piece,1
+,Osaka,PVC Tape,10,0,0,60,0,0,piece,1
+,7.45179E+11,Quetta Tea 250gm,10,0,0,500,0,0,piece,1
+,444,Anda Burgur,1,0,0,140,0,0,piece,1
+,445,Chicken Shawarma,1,0,0,180,0,0,piece,1
